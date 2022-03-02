@@ -1,1 +1,3 @@
 # training-angular
+
+Initial Setup
